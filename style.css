@@ -1,0 +1,138 @@
+
+.img-area img {
+    width: 100%;
+    height: 107px;
+}
+.navbar {
+    background: #8a3725;
+    padding: 1% 7%;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+.navbar a:hover {
+    background: #458a25;
+}
+.dropdown-container {
+    display: inline;
+    position: relative;
+}
+.dropdown-content a {
+    display: block;
+}
+.dropdown-content a:hover {
+	background: #458a25;
+
+   
+}
+.dropdown-content{
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	background-color: #8a3725;
+	text-align: left;
+	min-width: 100px;
+	display: none;
+}
+.dropdown-container:hover .dropdown-content{
+	display: block;
+} 
+	
+
+
+.main-content{
+	float: left;
+	width: 60%;
+	background: red;
+	height: 458px;
+
+
+}
+.side-content{
+	float: right;
+	width: 40%;
+	background: blue;
+	height: 458px;
+
+}
+.side-content h3{
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding-top: 43px;
+}
+.side {
+    text-align: center;
+}
+.side a {
+    color: white;
+    font-weight: bold;
+    display: block;
+    text-decoration: none;
+
+}
+.s1:hover {
+    background: none;
+}
+p {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 20px;
+}
+.main-content h3 {
+    text-align: center;
+    color: white;
+    padding-top: 52px;
+}
+h6 {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
+.s2:hover {
+    background: none;
+}
+.le {
+    text-align: center;
+}
+.s2 {
+    color: white;
+    text-decoration: none;
+}
+img {
+   width: 48%;
+}
+.team-member{
+	width: 100%;
+	background:#6cc372;
+	text-align: center;
+}
+.team{
+	width: 23%;
+	display: inline-block;
+}
+h1 {
+    color: #8a3725;
+}
+h4 {
+    color: #8a3725;
+}
+
+h2 {
+    color: #8a3725;
+}
+h3 {
+    color: #8a3725;
+}
+.main-content img{
+	width: 100%
+}
+
